@@ -1,0 +1,6 @@
+.vscode
+*.pdf
+*.svg
+*.png
+elmag_malayi.py
+mayavi_mesh.py
